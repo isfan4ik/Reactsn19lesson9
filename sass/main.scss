@@ -1,0 +1,361 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   height: 4300px;
+}
+
+.logo{
+   margin-left: 124px;
+   margin-top: 46px;
+}
+
+.ul{
+   margin-left: 1008px;
+   margin-top: -30px;
+}
+
+a{
+   margin-left: 24px;
+}
+
+.span{
+   color: #260041;
+   font-size: 50px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 70px; /* 140% */
+   letter-spacing: 1px;
+   margin-left: 244px;
+   position: absolute;
+   margin-top: 244px;
+}
+
+.pasl{
+   margin-left: 250px;
+   position: absolute;
+   margin-top: 400px;
+   color: #260041;
+   font-family: Objective;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 36px; /* 180% */
+}
+
+.moquri{
+   margin-left: 868px;
+}
+
+.g{
+   margin-left: 258px;
+}
+
+.lapot{
+   color: #260041;
+   font-family: Objective;
+   font-size: 36px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 46px; /* 127.778% */
+   letter-spacing: 1.8px;
+   margin-top: 286px;
+   position: absolute;
+}
+
+.flig{
+   width: 380px;
+   height: 525px;
+   flex-shrink: 0;
+   border-radius: 10px;
+   background: #FFF;
+   box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+   margin-top: 508px;
+}
+
+.man{
+   margin-left: 74px;
+   margin-top: 48px;
+}
+
+.r{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 30px; /* 150% */
+   letter-spacing: 0.4px;
+   margin-left: 48px;
+   margin-top: 56px;
+}
+
+.not{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 26px; /* 162.5% */
+   opacity: 0.6;
+   margin-left: 48px;
+}
+
+.more-l{
+   color: #4A99D3;
+   font-family: Objective;
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 30px; /* 214.286% */
+   letter-spacing: 0.7px;
+   margin-left: 48px;
+   margin-top: 62px;
+}
+
+.qq{
+   width: 380px;
+   height: 525px;
+   flex-shrink: 0;
+   border-radius: 10px;
+   background: #FFF;
+   box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+   margin-left: 420px;
+   margin-top: -520px;
+}
+
+.q1{
+   width: 380px;
+   height: 525px;
+   flex-shrink: 0;
+   border-radius: 10px;
+   background: #FFF;
+   box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+   margin-left: 860px;
+   margin-top: -520px;
+}
+
+.q2{
+   width: 380px;
+   height: 525px;
+   flex-shrink: 0;
+   border-radius: 10px;
+   background: #FFF;
+   box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+   margin-top: 30px;
+}
+
+.lapot{
+   margin-top: 0px;
+}
+
+.verb{
+   width: 1503px;
+   height: 476px;
+   flex-shrink: 0;
+   background: rgba(74, 153, 211, 0.10);
+   margin-left: -100px;
+   margin-top: 90px;
+}
+
+.how{
+   color: #4A99D3;
+   text-align: center;
+   font-family: Objective;
+   font-size: 26px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   margin-left: 631px;
+   margin-top: 91px;
+   position: absolute;
+}
+
+.person{
+   margin-left: 327px;
+   margin-top: 210px;
+   position: absolute;
+}
+
+.an{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+   margin-left: 270px;
+   margin-top: 300px;
+   position: absolute;
+}
+
+.ipsum{
+   color: var(--text-color, #0F001A);
+   text-align: center;
+   font-family: Objective;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 26px; /* 162.5% */
+   margin-left: 245px;
+   margin-top: 329px;
+   position: absolute;
+}
+
+.shield{
+   margin-left: 673px;
+   margin-top: 210px;
+   position: absolute;
+}
+
+.get{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+   margin-left: 622px;
+   margin-top: 300px;
+   position: absolute;
+}
+
+.lopf{
+   color: var(--text-color, #0F001A);
+   text-align: center;
+   font-family: Objective;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 26px; /* 162.5% */
+   margin-left: 575px;
+   margin-top: 329px;
+   position: absolute;
+}
+
+.smile{
+   margin-left: 1037px;
+   margin-top: 210px;
+   position: absolute;
+}
+
+.app-t{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+   margin-left: 1003px;
+   margin-top: 300px;
+   position: absolute;
+}
+
+.our{
+   color: var(--text-color, #0F001A);
+   text-align: center;
+   font-family: Objective;
+   font-size: 26px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   margin-top: 87px;
+}
+
+.loz{
+   color: var(--text-color, #0F001A);
+   text-align: center;
+   font-family: Objective;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 26px; /* 162.5% */
+   margin-left: 938px;
+   margin-top: 329px;
+   position: absolute;
+}
+
+.air{
+   margin-left: 100px;
+}
+
+.in{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px; /* 150% */
+   opacity: 0.5;
+   margin-left: 700px;
+   margin-top: -200px;
+}
+
+.angel{
+   color: var(--text-color, #0F001A);
+   font-family: Objective;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+   margin-left: 700px;
+}
+
+.cyh{
+   margin-top: 158px;
+}
+
+.mos{
+   color: var(--text-color, #0F001A);
+   text-align: center;
+   font-family: Objective;
+   font-size: 25px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   margin-left: 765px;
+   margin-top: -300px;
+   position: absolute;
+}
+
+.lofx{
+   color: var(--text-color, #0F001A);
+   text-align: center;
+   font-family: Objective;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px; /* 150% */
+   opacity: 0.5;
+   margin-left: 600px;
+   margin-top: -260px;
+}
+
+.ob{
+   margin-left: 780px;
+}
+
+@media (max-width:1150px){
+   .moquri{
+      width: 300px;
+      height: 300px;
+      margin-top: -40px;
+      margin-left: -20px;
+   }
+   .span{
+      width: 400px;
+      margin-left: -10px;
+   }
+   .pasl{
+      width: 440px;
+      margin-top: 450px;
+      margin-left: -10px;
+   }
+   .g{
+      width: 300px;
+      margin-top: 400px;
+      margin-left: -20px;
+   }  }
